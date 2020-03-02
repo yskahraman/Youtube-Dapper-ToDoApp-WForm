@@ -1,0 +1,17 @@
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\bin\Debug\DapperUygulama.exe.config
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\bin\Debug\DapperUygulama.exe
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\bin\Debug\DapperUygulama.pdb
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.Formlar.FrmKullaniciKayit.resources
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.Formlar.KullaniciGiris.resources
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.Properties.Resources.resources
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.csproj.GenerateResource.cache
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.exe
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.pdb
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\bin\Debug\Dapper.dll
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\bin\Debug\Dapper.xml
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.csproj.CopyComplete
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.Formlar.FrmBekleyenler.resources
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.Formlar.FrmIsler.resources
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.Formlar.FrmTamamlananlar.resources
+C:\Users\yskah\Desktop\DapperUygulama\DapperUygulama\obj\Debug\DapperUygulama.Formlar.FrmYeniIs.resources
